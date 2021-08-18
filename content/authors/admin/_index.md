@@ -1,7 +1,7 @@
 ---
 title: Gabriel Loewinger
 role: PhD Student Biostatistics
-avatar_filename: avatar.png
+avatar_filename: avatar.jpg
 bio: My research interests include biostatistics, machine learning, applied
   optimization, neuroscience and chemical dependence.
 interests:
@@ -38,7 +38,7 @@ education:
   courses:
     - course: AM in Biostatistics
       institution: Harvard University
-      year: ""
+      year: 2019
     - course: BA in Neuroscience
       institution: Pitzer College
       year: 2012
