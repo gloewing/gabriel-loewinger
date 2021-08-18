@@ -5,7 +5,7 @@ avatar_filename: avatar.png
 bio: My research interests include biostatistics, machine learning, applied
   optimization, neuroscience and chemical dependence.
 interests:
-  - Biostatistics
+  - Biostatistics\\Neuroscience\\
 social:
   - icon: envelope
     icon_pack: fas
