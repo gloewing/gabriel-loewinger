@@ -8,8 +8,8 @@ url_pdf: ""
 summary: An example talk using Wowchemy's Markdown slides feature.
 title: Invited Talk At Virginia Tech
 location: Wowchemy HQ
-date: 2030-06-01T13:00:00Z
-date_end: 2030-06-01T15:00:00Z
+date: 2030-06-01T13:00:00.000Z
+date_end: 2030-06-01T15:00:00.000Z
 all_day: false
 event: Wowchemy Conference
 event_url: https://example.org
@@ -25,7 +25,9 @@ address:
   country: United States
 links:
   - url: https://www.youtube.com/watch?v=6WIQdugtlBo
-publishDate: 2017-01-01T00:00:00Z
+    icon_pack: fas
+    icon: youtube
+publishDate: 2017-01-01T00:00:00.000Z
 tags: []
 projects:
   - example
