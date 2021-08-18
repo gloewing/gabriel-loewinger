@@ -1,6 +1,7 @@
 ---
 title: Gabriel Loewinger
 role: PhD Student Biostatistics
+avatar_filename: website-photo.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
