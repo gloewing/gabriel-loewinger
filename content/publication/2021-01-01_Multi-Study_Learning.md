@@ -1,5 +1,5 @@
 +++
-title = "Multi-Study Learning for Real-time Neurochemical Sensing in Humans using the {\textquotedblleft}Study Strap Ensemble{\textquotedblright}"
+title = "Multi-Study Learning for Real-time Neurochemical Sensing in Humans using the ``Study Strap Ensemble''"
 date = "2021-01-01"
 authors = ["Gabriel Loewinger", "Prasad Patil", "Kenneth T. Kishida", "Giovanni Parmigiani"]
 publication_types = ["2"]
