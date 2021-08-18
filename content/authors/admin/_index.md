@@ -24,7 +24,7 @@ organizations:
     url: https://www.harvard.edu/
 education:
   courses:
-    - course: PhD in Biostatistics
+    - course: AM in Biostatistics
       institution: Harvard University
       year: ""
     - course: BA in Neuroscience
