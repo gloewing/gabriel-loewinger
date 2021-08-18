@@ -19,6 +19,12 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/gabrielloewinger/
+  - display:
+      header: false
+    icon_pack: ai
+    icon: orcid
+    label: orcid
+    link: https://orcid.org/0000-0002-0755-8520
 organizations:
   - name: Harvard University
     url: https://www.harvard.edu/
