@@ -6,7 +6,7 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
 slides: example
 url_pdf: ""
 summary: An example talk using Wowchemy's Markdown slides feature.
-title: Invited Talk At Virginia Tech
+title: Example Talk
 location: Wowchemy HQ
 date: 2030-06-01T13:00:00.000Z
 date_end: 2030-06-01T15:00:00.000Z
@@ -23,10 +23,7 @@ address:
   region: CA
   postcode: "94305"
   country: United States
-links:
-  - url: https://www.youtube.com/watch?v=6WIQdugtlBo
-    icon_pack: fas
-    icon: youtube
+links: []
 publishDate: 2017-01-01T00:00:00.000Z
 tags: []
 projects:
