@@ -5,7 +5,7 @@ avatar_filename: avatar.png
 bio: My research interests include biostatistics, machine learning, applied
   optimization, neuroscience and chemical dependence.
 interests:
-  - Biostatistics\\Neuroscience\\
+  - Biostatistics
 social:
   - icon: envelope
     icon_pack: fas
@@ -25,6 +25,12 @@ social:
     icon: orcid
     label: orcid
     link: https://orcid.org/0000-0002-0755-8520
+  - display:
+      header: false
+    link: gloewinger@g.harvard.edu
+    icon_pack: fas
+    icon: envelope
+    label: email
 organizations:
   - name: Harvard University
     url: https://www.harvard.edu/
