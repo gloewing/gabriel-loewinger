@@ -45,4 +45,4 @@ highlight_name: false
 ---
 Gabe Loewinger is a 5th year doctoral candidate in the Department of Biostatistics at Harvard School of Public Health. He is advised by Dr. Giovanni Parmigiani. He conducts statistics and machine learning research with a focus on developing methodologies for training predictive models when multiple training data sets are available (i.e., domain generalization and multi-source domain adaptation). His work leverages tools from mixed integer programming and convex optimization. Please feel free to reach out to me at gloewinger@g.harvard.edu.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://gabe-loewinger.netlify.app/cv.pdf" >}}resumé{{< /staticref >}}.
+{{< icon name=“download” pack=“fas” >}} Download my {{< staticref “uploads/cv.pdf” “newtab” >}}resumé{{< /staticref >}}.
