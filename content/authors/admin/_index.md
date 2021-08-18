@@ -6,6 +6,7 @@ bio: My research interests include biostatistics, machine learning, applied
   optimization, neuroscience and chemical dependence.
 interests:
   - Biostatistics
+  - Machine Learning
   - Optimization
   - Neuroscience
 social:
