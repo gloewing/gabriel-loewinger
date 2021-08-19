@@ -19,7 +19,7 @@ feature:
 - description: CRAN Package
   icon: r-project
   icon_pack: fab
-  name: {{< studyStrap "https://cran.r-project.org/web/packages/studyStrap/index.html" >}} 
+  name: studyStrap
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
