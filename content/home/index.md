@@ -14,6 +14,6 @@ After returning from abroad, I spent a couple years as an NIH IRTA research fell
 
 During graduate school I have focused on developing machine learning algorithms that borrow information across different datasets to improve model generalizability. In addition to my advisor,  {{< staticref "https://scholar.harvard.edu/parmigiani" "newtab" >}}Dr. Giovanni Parmigiani{{< /staticref >}}, I collaborate with  {{< staticref "http://www.mit.edu/~rahulmaz/" "newtab" >}}Dr. Rahul Mazumder{{< /staticref >}} at MIT and {{< staticref "https://scholar.harvard.edu/rajarshi/home" "newtab" >}}Dr. Rajarshi Mukherjee{{< /staticref >}} at Harvard. 
 
-Besides my doctoral work, I still actively engage in collaborative statistical work with neuroscientists and public health researchers. In addition to applied statistical work, I also have a few active side research projects developing statistical methods for neuroscience techniques.
+Besides my doctoral work, I actively engage in collaborative statistical work with neuroscientists and public health researchers. In addition to applied statistical work, I also have a few active side research projects developing statistical methods for neuroscience techniques.
 
 In my free time, I like to train Brazilian Jiu Jitsu and other forms of grappling. I am very interested in meditation. I also love chess, traveling and studying languages.
