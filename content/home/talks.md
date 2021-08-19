@@ -1,6 +1,6 @@
 ---
 widget: pages
-widget_id: Awards
+widget_id: Talks
 headless: true
 weight: 70
 title: Awards
