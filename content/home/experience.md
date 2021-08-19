@@ -25,7 +25,7 @@ experience:
   - title: studyStrap
     company: CRAN Package
     company_url: 'https://cran.r-project.org/web/packages/studyStrap/index.html'
-    company_logo: r-project
+    company_logo: org-x
     description: |2-
         Responsibilities include:
         
