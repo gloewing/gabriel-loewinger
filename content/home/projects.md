@@ -1,6 +1,6 @@
 ---
 widget: blank
-widget_id: a
+widget_id: awards
 headless: true
 weight: 65
 title: Awards
