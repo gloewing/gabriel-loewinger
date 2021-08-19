@@ -26,7 +26,7 @@ experience:
   - title: studyStrap
     company: CRAN Package
     company_url: 'https://cran.r-project.org/web/packages/studyStrap/index.html'
-    company_logo: Rlogo.svg
+    company_logo: Rlogo
     location: California
     date_start: '2016-01-01'
     date_end: '2020-12-31'
