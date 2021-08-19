@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Software
+title: Software Development
 subtitle:
 
 # Date format for experience
@@ -30,7 +30,7 @@ experience:
     location: ''
     date_start: '2020-02-20'
     date_end: ''
-    description: Implements flexible ensembling methods for training prediction algorithms with multiple datasets. 
+    description: I developed and maintain the "studyStrap" R package that is freely available on CRAN. The package implements numerous methods for training prediction algorithms with multiple training datasets. 
 
 design:
   columns: '2'
