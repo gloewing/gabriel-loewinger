@@ -9,13 +9,13 @@ main:
     weight: 10
   - name: Awards
     url: '#projects'
-    weight: 20 # 30
-  - name: Talks
-    url: '#talks'
-    weight: 30 # 40
+    weight: 30 # 30
+  - name: Software
+    url: '#software'
+    weight: 40 # 40
   - name: Publications
     url: '#publications' # '#featured'
-    weight: 40 # 50
+    weight: 20 # 50
   - name: CV
     url: uploads/CV.pdf
     weight: 50 # 70
