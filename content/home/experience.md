@@ -28,8 +28,8 @@ experience:
     company_url: 'https://cran.r-project.org/web/packages/studyStrap/index.html'
     company_logo: Rlogo
     location: ''
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+    date_start: '2020-02-20'
+    date_end: ''
     description: Implements flexible ensembling methods for training prediction algorithms with multiple datasets. 
 
 design:
