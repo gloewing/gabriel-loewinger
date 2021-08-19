@@ -1,23 +1,11 @@
 ---
-widget: portfolio
-widget_id: a
+widget: blank
+widget_id: Awards
 headless: true
 weight: 65
-title: Projects
+title: Awards
 subtitle: ""
 content:
-page_type: project
-  filter_default: 0
-  filter_button:
-    - name: All
-      tag: "*"
-    - name: Deep Learning
-      tag: Deep Learning
-    - name: Other
-      tag: Demo
-design:
-  columns: "2"
-  view: 2
-  flip_alt_rows: false
+-hello
 ---
 a/lsckva/s.d,gasdg
