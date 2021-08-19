@@ -1,7 +1,7 @@
 ---
 type: widget_page
 widget: blank
-widget_id: about
+widget_id: aboutMe
 headless: true
 weight: 85
 title: About Me
