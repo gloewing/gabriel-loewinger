@@ -20,4 +20,4 @@ design:
   view: 2
   flip_alt_rows: false
 ---
-a/lsckva/s.d,gasdg
+* a/lsckva/s.d,gasdg
