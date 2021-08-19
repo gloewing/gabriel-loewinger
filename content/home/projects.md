@@ -20,15 +20,15 @@ design:
   view: 2
   flip_alt_rows: false
 ---
-* Oct 2020	Harvard Medical School Computational Data Neuroscience Symposium Best Abstract Award 
-* Aug 2020	NIH National Research Service Award Fellowship (F31) 
-* Nov 2019	Rose Fellowship, Harvard School of Public Health
-* Feb 2015	NIH Technical Intramural Research Training Award
-* May 2013	Fulbright Fellowship
-* May 2012	Watson Fellowship 
-* Sep 2011	Pitzer College Research Travel Award
-* Mar 2011	Amgen Scholarship
-* Mar 2011	Claremont Colleges Summer Neuroscience Research Fellowship
-* Sep 2010	Pitzer College Research Travel Award
-* May 2007	Pitzer College Trustee Community Merit-Based Scholarship
+* Harvard Medical School Computational Data Neuroscience Symposium Best Abstract Award. Oct 2020
+* NIH National Research Service Award Fellowship (F31). Aug 2020	
+* Rose Fellowship, Harvard School of Public Health. Nov 2019	
+* NIH Technical Intramural Research Training Award. Feb 2015	
+* Fulbright Fellowship. May 2013	
+* Watson Fellowship. May 2012	 
+* Pitzer College Research Travel Award. Sep 2011	
+* Amgen Scholarship. Mar 2011	
+* Claremont Colleges Summer Neuroscience Research Fellowship. Mar 2011	
+* Pitzer College Research Travel Award. Sep 2010	
+* Pitzer College Trustee Community Merit-Based Scholarship. May 2007	
 
