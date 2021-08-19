@@ -30,7 +30,7 @@ experience:
     location: ''
     date_start: '2020-02-20'
     date_end: ''
-    description: I developed and maintain the "studyStrap" R package that is freely available on CRAN. The package implements numerous methods for training prediction algorithms with multiple training datasets. 
+    description: I developed and maintain the {{< staticref "https://cran.r-project.org/web/packages/studyStrap/index.html" "newtab" >}}studyStrap{{< /staticref >}} R package that is freely available on CRAN. The package implements numerous methods for training prediction algorithms with multiple training datasets. 
 
 design:
   columns: '2'
