@@ -7,10 +7,10 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Projects
+  - name: Awards
     url: '#projects'
     weight: 20 # 30
-  - name: Awards
+  - name: Talks
     url: '#talks'
     weight: 30 # 40
   - name: Publications
