@@ -26,7 +26,6 @@ experience:
     company: CRAN Package
     company_url: 'https://cran.r-project.org/web/packages/studyStrap/index.html'
     icon: r-project
-    icon_pack: fab
     location: ''
     date_start: ''
     date_end: ''
