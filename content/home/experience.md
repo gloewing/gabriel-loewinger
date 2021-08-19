@@ -29,7 +29,7 @@ experience:
     company_logo: Rlogo
     location: ''
     date_start: '02-2020'
-    date_end: 
+    date_end: ''
     description: Implements flexible ensembling methods for training prediction algorithms with multiple datasets.
 
 design:
