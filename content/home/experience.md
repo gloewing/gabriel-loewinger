@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Software
 subtitle:
 
 # Date format for experience
@@ -28,9 +28,9 @@ experience:
     company_url: 'https://cran.r-project.org/web/packages/studyStrap/index.html'
     company_logo: Rlogo
     location: ''
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    date_start: ''
+    date_end: 
+    description: Implements a number of flexible ensembling methods when training prediction algorithms with multiple datasets.
 
 design:
   columns: '2'
