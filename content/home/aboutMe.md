@@ -8,7 +8,7 @@ title: About Me
 ---
 I grew up in Washington, DC and studied neuroscience at Pitzer College in Claremont, CA. I spent my summers during college conducting neuroscience research in labs at UCLA and the University of Maryland Medical School. During my junior year, I studied abroad in Nepal.
 
-After graduating from college, I was fortunate to receive a {{< staticref "https://watson.foundation/fellowships/tj" "newtab" >}}Watson Fellowship{{< /staticref >}} to conduct research for one year in Peru, Brazil, Thailand and Vietnam. I subsequently spent a year in Nepal conducting a research {{< staticref "https://us.fulbrightonline.org/" "newtab" >}}Fulbright Fellowship{{< /staticref >}}.
+After graduating from college, I was fortunate to receive a {{< staticref "https://watson.foundation/fellowships/tj" "newtab" >}}Watson Fellowship{{< /staticref >}} to conduct research for one year in Peru, Brazil, Thailand and Vietnam. I subsequently spent a year in Nepal on a research {{< staticref "https://us.fulbrightonline.org/" "newtab" >}}Fulbright Fellowship{{< /staticref >}}.
 
 After returning from abroad, I spent a couple years as an NIH IRTA research fellow at the National Institute on Alcohol Abuse and Alcoholism in the laboratory of {{< staticref "https://www.niaaa.nih.gov/research/division-intramural-clinical-and-biological-research/laboratory-integrative-neuroscience" "newtab" >}}Dr. David Lovinger{{< /staticref >}}. During my time at the NIH, I witnessed how biomedical sciences increasingly rely on and benefit from statistical methods research. This experience motivated me to pursue graduate training in biostatistics and so I began to take night classes to prepare for doctoral training in this area.
 
