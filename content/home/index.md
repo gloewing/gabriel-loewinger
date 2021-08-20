@@ -3,7 +3,7 @@ type: widget_page
 widget: blank
 widget_id: aboutMe
 headless: true
-weight: 85
+weight: 40
 title: About Me
 ---
 I grew up in Washington, DC and studied neuroscience at Pitzer College (part of the Claremont Colleges) outside LA. I spent my summers during college conducting neuroscience research in labs at UCLA and the University of Maryland Medical School. I took a semester off in college to conduct a neuroscience study of my own design at the University of Maryland Medical school and then studied abroad in Nepal.
