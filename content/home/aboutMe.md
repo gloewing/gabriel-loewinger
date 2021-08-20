@@ -3,7 +3,7 @@ type: widget_page
 widget: blank
 widget_id: aboutMe
 headless: true
-weight: 85
+weight: 40
 title: About Me
 ---
 I grew up in Washington, DC and studied neuroscience at Pitzer College (part of the Claremont Colleges) outside LA. I spent my summers during college doing neuroscience research in labs at UCLA and the University of Maryland Medical School. I studied abroad in Nepal and subsequently spent a year there on a research {{< staticref "https://us.fulbrightonline.org/" "newtab" >}}Fulbright Fellowship{{< /staticref >}} after graduating from college. I also was fortunate to receive and conduct a {{< staticref "https://watson.foundation/fellowships/tj" "newtab" >}}Watson Fellowship{{< /staticref >}} to travel for one year to Peru, Brazil, Thailand and Vietnam studying international treatments for chemical dependence.
