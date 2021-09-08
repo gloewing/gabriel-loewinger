@@ -1,6 +1,6 @@
 +++
-title = "Multi-Study Learning for Real-time Neurochemical Sensing in Humans using the ''Study Strap Ensemble''"
-date = "2021-01-01"
+title = "Hierachical Resampling for Bagging in Multi-Study Prediction with Applications to Human Neurochemical Sensing"
+date = "2021-08-26"
 authors = ["Gabriel Loewinger", "Prasad Patil", "Kenneth T. Kishida", "Giovanni Parmigiani"]
 publication_types = ["2"]
 publication = "bioRxiv, https://doi.org/10.1101/856385"
