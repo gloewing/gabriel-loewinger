@@ -21,7 +21,7 @@ design:
   flip_alt_rows: false
 ---
 * Harvard Medical School Computational Data Neuroscience Symposium Best Abstract Award. Oct 2020
-* NIH National Research Service Award Fellowship (F31). Aug 2020	
+* NIH National Research Service Award Pre-Doctoral Fellowship (F31), National Institute on Drug Abuse. Aug 2020	
 * Rose Fellowship, Harvard School of Public Health. Nov 2019	
 * NIH Technical Intramural Research Training Award. Feb 2015	
 * Fulbright Fellowship. May 2013	
