@@ -24,11 +24,8 @@ design:
 * NIH National Research Service Award Pre-Doctoral Fellowship (F31), National Institute on Drug Abuse. Aug 2020	
 * Rose Fellowship, Harvard School of Public Health. Nov 2019	
 * NIH Technical Intramural Research Training Award. Feb 2015	
-* Fulbright Fellowship. May 2013	
+* Fulbright Research Fellowship. May 2013	
 * Watson Fellowship. May 2012	 
-* Pitzer College Research Travel Award. Sep 2011	
 * Amgen Scholarship. Mar 2011	
 * Claremont Colleges Summer Neuroscience Research Fellowship. Mar 2011	
-* Pitzer College Research Travel Award. Sep 2010	
-* Pitzer College Trustee Community Merit-Based Scholarship. May 2007	
 
