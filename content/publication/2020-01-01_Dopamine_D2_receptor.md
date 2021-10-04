@@ -1,5 +1,5 @@
 +++
-title = "Dopamine D2 receptor signaling on iMSNs is required for initiation and vigor of learned actions"
+title = "Dopamine D2 Receptor Signaling on iMSNs is Required for Initiation and Vigor of Learned Actions"
 date = "2020-01-01"
 authors = ["Shana M. Augustin", "Gabriel C. Loewinger", "Timothy J. O'Neal", "Alexxai V. Kravitz", "David M. Lovinger"]
 publication_types = ["2"]

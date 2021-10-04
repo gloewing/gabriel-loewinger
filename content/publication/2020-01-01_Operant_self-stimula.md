@@ -1,5 +1,5 @@
 +++
-title = "Operant self-stimulation of thalamic terminals in the dorsomedial striatum is constrained by metabotropic glutamate receptor 2"
+title = "Operant Self-Stimulation of Thalamic Terminals in the Dorsomedial Striatum is Constrained by Metabotropic Glutamate Receptor 2"
 date = "2020-01-01"
 authors = ["Kari A. Johnson", "Lucas Voyvodic", "Gabriel C. Loewinger", "Yolanda Mateo", "David M. Lovinger"]
 publication_types = ["2"]

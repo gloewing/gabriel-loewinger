@@ -1,5 +1,5 @@
 +++
-title = "Surprise-induced enhancements in the associability of Pavlovian cues facilitate learning across behavior systems"
+title = "Surprise-Induced Enhancements in the Associability of Pavlovian Cues Facilitate Learning across Behavior Systems"
 date = "2021-01-01"
 authors = ["Inmaculada Marquez", "Gabriel Loewinger", "Juan Pedro Vargas", "Juan Carlos Lopez", "Estrella Diaz", "Guillem R. Esber"]
 publication_types = ["2"]
