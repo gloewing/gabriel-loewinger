@@ -1,6 +1,6 @@
 +++
 title = "Optimal Ensemble Construction for Multi-Study Prediction with Applications to COVID-19 Excess Mortality Estimation"
-date = "2021-01-01"
+date = "2021-10-01"
 authors = ["Gabriel Loewinger", "Rolando Acosta Nunez", "Rahul Mazumder", "Giovanni Parmigiani"]
 publication_types = ["2"]
 publication = "arXiv"
