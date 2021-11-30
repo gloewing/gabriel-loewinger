@@ -1,7 +1,7 @@
 +++
 title = "Low Knowledge and Perceived Hepatitis C Risk Despite High Risk Behaviour among Injection Drug Users in Kathmandu, Nepal"
 date = "2016-01-01"
-authors = ["Gabriel Loewinger", "Bishnu Sharma", "Deepak Kumar Karki", "Prasana Khatiwoda", "Sher Kainee", "Krishna C. Poudel"]
+authors = ["Gabriel Loewinger", "Bishnu Sharma", "Deepak Kumar Karki", "Prasana Khatiwoda", "Sher Kainee", "Krishna Poudel"]
 publication_types = ["2"]
 publication = "International Journal of Drug Policy, (33), _pp. 75-82_, https://doi.org/10.1016/j.drugpo.2016.05.005"
 publication_short = "International Journal of Drug Policy, (33), _pp. 75-82_, https://doi.org/10.1016/j.drugpo.2016.05.005"
