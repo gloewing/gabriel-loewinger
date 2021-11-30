@@ -1,7 +1,7 @@
 +++
 title = "Operant Self-Stimulation of Thalamic Terminals in the Dorsomedial Striatum is Constrained by Metabotropic Glutamate Receptor 2"
 date = "2020-01-01"
-authors = ["Kari A. Johnson", "Lucas Voyvodic", "Gabriel C. Loewinger", "Yolanda Mateo", "David M. Lovinger"]
+authors = ["Kari Johnson", "Lucas Voyvodic", "Gabriel Loewinger", "Yolanda Mateo", "David Lovinger"]
 publication_types = ["2"]
 publication = "Neuropsychopharmacology, (45), 9, _pp. 1454--1462_, https://doi.org/10.1038/s41386-020-0626-y"
 publication_short = "Neuropsychopharmacology, (45), 9, _pp. 1454--1462_, https://doi.org/10.1038/s41386-020-0626-y"
