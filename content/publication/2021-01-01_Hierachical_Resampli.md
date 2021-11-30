@@ -1,7 +1,7 @@
 +++
 title = "Hierachical Resampling for Bagging in Multi-Study Prediction with Applications to Human Neurochemical Sensing"
 date = "2021-01-01"
-authors = ["Gabriel Loewinger", "Prasad Patil", "Kenneth T. Kishida", "Giovanni Parmigiani"]
+authors = ["Gabriel Loewinger", "Prasad Patil", "Kenneth Kishida", "Giovanni Parmigiani"]
 publication_types = ["2"]
 publication = "Annals of Applied Statistics (To Appear), https://doi.org/10.1101/856385"
 publication_short = "Annals of Applied Statistics (To Appear), https://doi.org/10.1101/856385"
