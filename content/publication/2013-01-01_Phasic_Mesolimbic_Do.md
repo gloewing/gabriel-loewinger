@@ -1,7 +1,7 @@
 +++
 title = "Phasic Mesolimbic Dopamine Release Tracks Reward Seeking During Expression of Pavlovian-to-Instrumental Transfer"
 date = "2013-01-01"
-authors = ["Kate M. Wassum", "Sean B. Ostlund", "Gabriel C. Loewinger", "Nigel T. Maidment"]
+authors = ["Kate Wassum", "Sean Ostlund", "Gabriel Loewinger", "Nigel Maidment"]
 publication_types = ["2"]
 publication = "Biological Psychiatry, (73), 8, _pp. 747--755_, https://doi.org/10.1016/j.biopsych.2012.12.005"
 publication_short = "Biological Psychiatry, (73), 8, _pp. 747--755_, https://doi.org/10.1016/j.biopsych.2012.12.005"
