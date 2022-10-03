@@ -1,6 +1,6 @@
 ---
 title: Gabriel Loewinger
-role: PhD Student Biostatistics
+role: Machine Learning Research Scientist
 avatar_filename: avatar.jpg
 bio: My research interests include biostatistics, machine learning, applied
   optimization, neuroscience and chemical dependence.
@@ -29,10 +29,13 @@ social:
     label: orcid
     link: https://orcid.org/0000-0002-0755-8520
 organizations:
-  - name: Harvard University
-    url: https://www.harvard.edu/
+  - name: Machine Learning Team, National Institute on Mental Health, NIH
+    url: https://cmn.nimh.nih.gov/mlt
 education:
   courses:
+   - course: PhD in Biostatistics
+      institution: Harvard University
+      year: 2022
     - course: AM in Biostatistics
       institution: Harvard University
       year: 2019
@@ -43,6 +46,6 @@ email: gloewinger@g.harvard.edu
 superuser: true
 highlight_name: false
 ---
-I am a 5th year PhD candidate in the {{< staticref "https://www.hsph.harvard.edu/biostatistics/" "newtab" >}}Department of Biostatistics{{< /staticref >}} at {{< staticref "https://www.hsph.harvard.edu/" "newtab" >}}Harvard School of Public Health{{< /staticref >}} and an NIH Graduate Fellowship recipient (NRSA: F31). I am advised by {{< staticref "https://scholar.harvard.edu/parmigiani" "newtab" >}}Dr. Giovanni Parmigiani{{< /staticref >}}. I conduct statistics and machine learning research with a focus on developing transfer learning methodologies for training predictive models when multiple training datasets are available (i.e., domain generalization and multi-source domain adaptation). My work leverages tools from mixed integer and convex optimization. My subject area interests include neuroscience and chemical dependence. Please feel free to reach out to me at gloewinger@g.harvard.edu. 
+I am a machine learning research scientist at the NIMH where I develop statistical and machine learning methods. I recently completed my PhD in the {{< staticref "https://www.hsph.harvard.edu/biostatistics/" "newtab" >}}Department of Biostatistics{{< /staticref >}} at {{< staticref "https://www.hsph.harvard.edu/" "newtab" >}}Harvard School of Public Health{{< /staticref >}} where I Was an NIH Graduate Fellowship recipient (NRSA: F31). I was advised by {{< staticref "https://scholar.harvard.edu/parmigiani" "newtab" >}}Dr. Giovanni Parmigiani{{< /staticref >}} and conducted statistics and machine learning research with a focus on the development of transfer learning methodologies for training predictive models when multiple training datasets are available (i.e., domain generalization and multi-source domain adaptation). My work leverages tools from mixed integer and convex optimization. My subject area interests include neuroscience and chemical dependence. Please feel free to reach out to me at gloewinger@g.harvard.edu. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
