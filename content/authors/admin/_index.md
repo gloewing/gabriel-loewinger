@@ -33,7 +33,7 @@ organizations:
     url: https://cmn.nimh.nih.gov/mlt
 education:
   courses:
-   - course: PhD in Biostatistics
+    - course: PhD in Biostatistics
       institution: Harvard University
       year: 2022
     - course: AM in Biostatistics
