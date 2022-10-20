@@ -20,6 +20,7 @@ design:
   view: 2
   flip_alt_rows: false
 ---
+* Teaching Award, Department of Biostatistics, Harvard University. 2021-2022
 * Harvard Medical School Computational Data Neuroscience Symposium Best Abstract Award. Oct 2020
 * NIH National Research Service Award Pre-Doctoral Fellowship (F31), National Institute on Drug Abuse. Aug 2020	
 * Rose Fellowship, Harvard School of Public Health. Nov 2019	
