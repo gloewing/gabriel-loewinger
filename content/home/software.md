@@ -23,14 +23,14 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
         
- - title: sMTL
+  - title: sMTL
     company: CRAN Package
     company_url: 'https://cran.r-project.org/web/packages/sMTL/index.html'
     company_logo: Rlogo
     location: ''
     date_start: '2023-02-06'
     date_end: ''
-    description: I developed and maintain the "sMTL" R package that is freely available on CRAN. The package implements numerous sparse Multi-Task Learning methods. The scalable algorithms implemented in the package are based on block coordinate descent and combinatorial local search. They are coded in Julia for computational efficiency and are called from an easy-to-use R wrapper.  Click on "CRAN Package" above for a link to download. 
+    description: I developed and maintain the "sMTL" R package that is freely available on CRAN. The package implements numerous sparse Multi-Task Learning methods. The scalable algorithms implemented in the package are based on block coordinate descent and combinatorial local search. They are coded in Julia for computational efficiency and are called from an easy-to-use R wrapper. Click on "CRAN Package" above for a link to download. 
     
   - title: studyStrap
     company: CRAN Package
