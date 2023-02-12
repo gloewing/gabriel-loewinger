@@ -6,7 +6,7 @@ headless: true
 weight: 40
 title: About Me
 ---
-I grew up in Washington, DC and studied neuroscience at Pitzer College in Claremont, CA. After graduating from college, I was fortunate to receive a {{< staticref "https://watson.foundation/fellowships/tj" "newtab" >}}Watson Fellowship{{< /staticref >}} to conduct research for one year in Peru, Brazil, Thailand and Vietnam. I subsequently spent a year in Nepal on a research {{< staticref "https://us.fulbrightonline.org/" "newtab" >}}Fulbright Fellowship{{< /staticref >}}.
+I grew up in Washington, DC and studied neuroscience at Pitzer College (part of the Claremont Colleges). After graduating from college, I was fortunate to receive a {{< staticref "https://watson.foundation/fellowships/tj" "newtab" >}}Watson Fellowship{{< /staticref >}} to conduct research for one year in Peru, Brazil, Thailand and Vietnam. I subsequently spent a year in Nepal on a research {{< staticref "https://us.fulbrightonline.org/" "newtab" >}}Fulbright Fellowship{{< /staticref >}}.
 
 After returning from abroad, I received an NIH postbac research fellowship in the laboratory of {{< staticref "https://www.niaaa.nih.gov/research/division-intramural-clinical-and-biological-research/laboratory-integrative-neuroscience" "newtab" >}}Dr. David Lovinger{{< /staticref >}}. At the NIH I witnessed how biomedical sciences increasingly rely on and benefit from statistical methods research. This experience motivated me to pursue doctoral training in biostatistics.
 
