@@ -30,7 +30,7 @@ experience:
     location: ''
     date_start: '2023-02-06'
     date_end: ''
-    description: I developed and maintain the "sMTL" R package that is freely available on CRAN. The package implements numerous sparse Multi-Task Learning methods. The scalable algorithms implemented in the package are based on block coordinate descent and combinatorial local search. They are coded in Julia for computational efficiency and are called from an easy-to-use R wrapper. Click on "CRAN Package" above for a link to download. Named as one of {{< staticref "https://rviews.rstudio.com/2023/03/28/february-2023-top-40-new-cran-packages/" "newtab" >}}R Views "Top 40" new CRAN packages{{< /staticref >}} of February 2023!
+    description: I developed and maintain the "sMTL" R package that is freely available on CRAN. The package implements numerous sparse Multi-Task Learning methods. The scalable algorithms implemented in the package are based on block coordinate descent and combinatorial local search. They are coded in Julia for computational efficiency and are called from an easy-to-use R wrapper. Click on "CRAN Package" above for a link to download. Named as one of {{< staticref "https://rviews.rstudio.com/2023/03/28/february-2023-top-40-new-cran-packages/" "newtab" >}}R Views "Top 40" new CRAN packages{{< /staticref >}} of February 2023! {{< staticref "https://us.fulbrightonline.org/" "newtab" >}}Fulbright Fellowship{{< /staticref >}}
     
   - title: studyStrap
     company: CRAN Package
