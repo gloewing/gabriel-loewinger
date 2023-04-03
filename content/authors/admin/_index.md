@@ -29,7 +29,7 @@ social:
     label: orcid
     link: https://orcid.org/0000-0002-0755-8520
 organizations:
-  - name: Machine Learning Team, National Institute on Mental Health, NIH
+  - name: Machine Learning Team, National Institute of Mental Health, NIH
     url: https://cmn.nimh.nih.gov/mlt
 education:
   courses:
