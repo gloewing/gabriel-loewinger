@@ -22,7 +22,16 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-        
+
+  - title: fastFMM
+    company: CRAN Package
+    company_url: 'https://cran.r-project.org/web/packages/fastFMM/index.html'
+    company_logo: Rlogo
+    location: ''
+    date_start: '2023-11-14'
+    date_end: ''
+    description: I codeveloped the "fastFMM" R package that is freely available on CRAN. The package implements an approach to functional generalized linear mixed models. Click on "CRAN Package" above for a link to download. 
+    
   - title: sMTL
     company: CRAN Package
     company_url: 'https://cran.r-project.org/web/packages/sMTL/index.html'
