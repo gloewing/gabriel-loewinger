@@ -1,7 +1,7 @@
 +++
 title = "Protocol for Outcome Evaluation of Ayahuasca-Assisted Addiction Treatment: The Case of Takiwasi Center"
 date = "2021-01-01"
-authors = ["Brian Rush", "Olivia Marcus", "Sara GarcA-a", "Anja Loizaga-Velder", "Gabriel Loewinger", "Ariane Spitalier", "Fernando Mendive"]
+authors = ["Brian Rush", "Olivia Marcus", "Sara Garcia", "Anja Loizaga-Velder", "Gabriel Loewinger", "Ariane Spitalier", "Fernando Mendive"]
 publication_types = ["2"]
 publication = "Frontiers in Pharmacology, (12), _pp. 1203_, https://doi.org/10.3389/fphar.2021.659644"
 publication_short = "Frontiers in Pharmacology, (12), _pp. 1203_, https://doi.org/10.3389/fphar.2021.659644"
