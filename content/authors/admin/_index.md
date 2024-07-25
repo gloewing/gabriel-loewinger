@@ -12,7 +12,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:gloewinger@g.harvard.edu
+    link: mailto:gloewinger@gmail.com
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=ZGBjoDsAAAAJ&hl=en
