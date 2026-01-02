@@ -1,5 +1,5 @@
 +++
-title = "Multi-Task Learning for Sparsity Pattern Heterogeneity: A Discrete Optimization Approach"
+title = "Multi-Task Learning for Sparsity Pattern Heterogeneity: Statistical and Computational Perspectives"
 date = "2025-12-17"
 authors = ["Kayhan Behdin&#42", "Gabriel Loewinger&#42", "Kenneth T. Kishida", "Giovanni Parmigiani", "Rahul Mazumder"]
 publication_types = ["2"]
