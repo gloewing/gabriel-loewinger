@@ -1,6 +1,6 @@
 +++
 title = "Nonparametric causal inference for optogenetics: sequential excursion effects for dynamic regimes"
-date = "2025-07-01"
+date = "2026-01-24"
 authors = ["Gabriel Loewinger&#42", "Alex Levis&#42", "Francisco Pereira"]
 publication_types = ["2"]
 publication = "Journal of the American Statistical Association (To Appear), https://doi.org/10.48550/arXiv.2405.18597"
