@@ -23,6 +23,15 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
+  - title: fastFGEE
+    company: CRAN Package
+    company_url: 'https://cran.r-project.org/web/packages/fastFGEE/index.html'
+    company_logo: Rlogo
+    location: ''
+    date_start: '2023-04-08'
+    date_end: ''
+    description: I developed the "fastFGEE" R package that is freely available on CRAN. The package implements one-step functional generalized estimating equations for function-on-scalar, scalar-on-function and function-on-function regression for longitudinal functional data analysis. Click on "CRAN Package" above for a link to download.
+    
   - title: fastFMM
     company: CRAN Package
     company_url: 'https://cran.r-project.org/web/packages/fastFMM/index.html'
