@@ -30,7 +30,7 @@ experience:
     location: ''
     date_start: '2026-04-08'
     date_end: ''
-    description: I developed the "fastFGEE" R package that is freely available on CRAN. The package implements one-step functional generalized estimating equations for function-on-scalar, scalar-on-function and function-on-function regression for longitudinal functional data analysis. Click on "CRAN Package" above for a link to download.
+    description: I developed the "fastFGEE" R package that is freely available on CRAN. The package implements one-step functional generalized estimating equations for function-on-scalar, scalar-on-function and function-on-function regression for large longitudinal functional datasets. Click on "CRAN Package" above for a link to download.
     
   - title: fastFMM
     company: CRAN Package
